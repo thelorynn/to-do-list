@@ -76,4 +76,4 @@ my-todo-app/
 
 ## Author
 
-Built as a course project for [your course name] — React fundamentals assignment.
+Built as a course project — React fundamentals assignment.
