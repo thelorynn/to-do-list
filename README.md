@@ -64,9 +64,11 @@ my-todo-app/
 
 ## Screenshots
 
-*(Add 2–3 screenshots of your running app here before submitting — e.g.)*
+   ![Main view](1.png)
 
-`![App screenshot](screenshots/main-view.png)`
+   ![Editing a task](Screenshot%202026-09-27%20232113.png)
+
+   ![Filtered view](Screenshot%202026-09-27%20232137.png)
 
 ## Known Limitations
 
